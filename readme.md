@@ -1,0 +1,1 @@
+O pessoal da faculdade estava com "dificuldades" em saber sua média e se passou na matéria ou não. Então criei este mini programa para ajuda-los.
